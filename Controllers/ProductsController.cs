@@ -1,6 +1,8 @@
-namespace   NetStock.Controllers{
-    
-    public class ProductsController{   
+namespace NetStock.Controllers
+{
+
+    public class ProductsController
+    {
 
 
     }
